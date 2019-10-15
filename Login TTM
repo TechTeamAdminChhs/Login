@@ -380,7 +380,7 @@ iframe {
 
   .login100-pic {
     display: none;
-  }
+  } 
 
   .login100-form {
     width: 100%;
